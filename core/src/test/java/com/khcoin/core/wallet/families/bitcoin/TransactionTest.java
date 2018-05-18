@@ -1,8 +1,8 @@
-package com.khcoin.core.wallet.families.bitcoin;
+package com.kh69coin.core.wallet.families.bitcoin;
 
-import com.khcoin.core.coins.CannacoinMain;
-import com.khcoin.core.coins.NuBitsMain;
-import com.khcoin.core.coins.PeercoinMain;
+import com.kh69coin.core.coins.CannacoinMain;
+import com.kh69coin.core.coins.NuBitsMain;
+import com.kh69coin.core.coins.PeercoinMain;
 
 import org.bitcoinj.core.Transaction;
 import org.junit.Test;

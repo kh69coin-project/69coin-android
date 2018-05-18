@@ -1,11 +1,11 @@
-package com.khcoin.core.wallet;
+package com.kh69coin.core.wallet;
 
-import com.khcoin.core.coins.BitcoinMain;
-import com.khcoin.core.coins.CoinType;
-import com.khcoin.core.coins.DogecoinMain;
-import com.khcoin.core.coins.DogecoinTest;
-import com.khcoin.core.coins.LitecoinMain;
-import com.khcoin.core.protos.Protos;
+import com.kh69coin.core.coins.BitcoinMain;
+import com.kh69coin.core.coins.CoinType;
+import com.kh69coin.core.coins.DogecoinMain;
+import com.kh69coin.core.coins.DogecoinTest;
+import com.kh69coin.core.coins.LitecoinMain;
+import com.kh69coin.core.protos.Protos;
 import org.bitcoinj.crypto.KeyCrypter;
 import org.bitcoinj.crypto.KeyCrypterScrypt;
 import org.bitcoinj.crypto.MnemonicException;

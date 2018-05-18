@@ -1,4 +1,4 @@
-package com.khcoin.core.uri;
+package com.kh69coin.core.uri;
 
 /*
  * Copyright 2012, 2014 the original author or authors.
@@ -18,19 +18,19 @@ package com.khcoin.core.uri;
  * 
  */
 
-import com.khcoin.core.coins.BitcoinMain;
-import com.khcoin.core.coins.BitcoinTest;
-import com.khcoin.core.coins.CoinType;
-import com.khcoin.core.coins.DashMain;
-import com.khcoin.core.coins.DogecoinMain;
-import com.khcoin.core.coins.LitecoinMain;
-import com.khcoin.core.coins.NuBitsMain;
-import com.khcoin.core.coins.NuSharesMain;
-import com.khcoin.core.coins.NxtMain;
-import com.khcoin.core.coins.PeercoinMain;
-import com.khcoin.core.util.GenericUtils;
-import com.khcoin.core.wallet.families.bitcoin.BitAddress;
-import com.khcoin.core.wallet.families.nxt.NxtAddress;
+import com.kh69coin.core.coins.BitcoinMain;
+import com.kh69coin.core.coins.BitcoinTest;
+import com.kh69coin.core.coins.CoinType;
+import com.kh69coin.core.coins.DashMain;
+import com.kh69coin.core.coins.DogecoinMain;
+import com.kh69coin.core.coins.LitecoinMain;
+import com.kh69coin.core.coins.NuBitsMain;
+import com.kh69coin.core.coins.NuSharesMain;
+import com.kh69coin.core.coins.NxtMain;
+import com.kh69coin.core.coins.PeercoinMain;
+import com.kh69coin.core.util.GenericUtils;
+import com.kh69coin.core.wallet.families.bitcoin.BitAddress;
+import com.kh69coin.core.wallet.families.nxt.NxtAddress;
 
 import org.bitcoinj.core.Coin;
 import org.junit.Test;
@@ -38,7 +38,7 @@ import org.spongycastle.util.encoders.Hex;
 
 import java.io.UnsupportedEncodingException;
 
-import static com.khcoin.core.util.BitAddressUtils.getHash160;
+import static com.kh69coin.core.util.BitAddressUtils.getHash160;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
 import static org.junit.Assert.assertNull;

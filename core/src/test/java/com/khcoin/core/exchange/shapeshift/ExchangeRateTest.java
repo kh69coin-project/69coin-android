@@ -1,10 +1,10 @@
-package com.khcoin.core.exchange.shapeshift;
+package com.kh69coin.core.exchange.shapeshift;
 
-import com.khcoin.core.coins.BitcoinMain;
-import com.khcoin.core.coins.CoinType;
-import com.khcoin.core.coins.DogecoinMain;
-import com.khcoin.core.coins.NuBitsMain;
-import com.khcoin.core.exchange.shapeshift.data.ShapeShiftExchangeRate;
+import com.kh69coin.core.coins.BitcoinMain;
+import com.kh69coin.core.coins.CoinType;
+import com.kh69coin.core.coins.DogecoinMain;
+import com.kh69coin.core.coins.NuBitsMain;
+import com.kh69coin.core.exchange.shapeshift.data.ShapeShiftExchangeRate;
 
 import org.junit.Test;
 

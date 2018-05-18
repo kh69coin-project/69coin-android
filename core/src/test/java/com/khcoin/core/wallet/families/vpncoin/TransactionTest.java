@@ -1,7 +1,7 @@
-package com.khcoin.core.wallet.families.vpncoin;
+package com.kh69coin.core.wallet.families.vpncoin;
 
-import com.khcoin.core.coins.VpncoinMain;
-import com.khcoin.core.messages.MessageFactory;
+import com.kh69coin.core.coins.VpncoinMain;
+import com.kh69coin.core.messages.MessageFactory;
 import com.google.common.base.Charsets;
 
 import org.bitcoinj.core.Transaction;

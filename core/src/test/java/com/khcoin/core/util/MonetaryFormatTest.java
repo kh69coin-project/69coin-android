@@ -1,4 +1,4 @@
-package com.khcoin.core.util;
+package com.kh69coin.core.util;
 
 /*
  * Copyright 2014 Andreas Schildbach
@@ -17,10 +17,10 @@ package com.khcoin.core.util;
  * limitations under the License.
  */
 
-import com.khcoin.core.coins.BitcoinMain;
-import com.khcoin.core.coins.FiatValue;
-import com.khcoin.core.coins.Value;
-import com.khcoin.core.coins.ValueType;
+import com.kh69coin.core.coins.BitcoinMain;
+import com.kh69coin.core.coins.FiatValue;
+import com.kh69coin.core.coins.Value;
+import com.kh69coin.core.coins.ValueType;
 
 import static org.bitcoinj.core.Coin.CENT;
 import static org.bitcoinj.core.Coin.COIN;

@@ -1,18 +1,18 @@
-package com.khcoin.core.wallet.families.nxt;
+package com.kh69coin.core.wallet.families.nxt;
 
-import com.khcoin.core.coins.CoinType;
-import com.khcoin.core.coins.NxtMain;
-import com.khcoin.core.coins.Value;
-import com.khcoin.core.coins.families.NxtFamily;
-import com.khcoin.core.coins.nxt.Account;
-import com.khcoin.core.coins.nxt.Attachment;
-import com.khcoin.core.coins.nxt.Convert;
-import com.khcoin.core.coins.nxt.NxtException;
-import com.khcoin.core.coins.nxt.Transaction;
-import com.khcoin.core.coins.nxt.TransactionImpl;
-import com.khcoin.core.protos.Protos;
-import com.khcoin.core.wallet.Wallet;
-import com.khcoin.core.wallet.WalletAccount;
+import com.kh69coin.core.coins.CoinType;
+import com.kh69coin.core.coins.NxtMain;
+import com.kh69coin.core.coins.Value;
+import com.kh69coin.core.coins.families.NxtFamily;
+import com.kh69coin.core.coins.nxt.Account;
+import com.kh69coin.core.coins.nxt.Attachment;
+import com.kh69coin.core.coins.nxt.Convert;
+import com.kh69coin.core.coins.nxt.NxtException;
+import com.kh69coin.core.coins.nxt.Transaction;
+import com.kh69coin.core.coins.nxt.TransactionImpl;
+import com.kh69coin.core.protos.Protos;
+import com.kh69coin.core.wallet.Wallet;
+import com.kh69coin.core.wallet.WalletAccount;
 
 import org.bitcoinj.crypto.DeterministicHierarchy;
 import org.bitcoinj.crypto.DeterministicKey;

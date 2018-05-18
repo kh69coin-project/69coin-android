@@ -1,4 +1,4 @@
-package com.khcoin.core.coins;
+package com.kh69coin.core.coins;
 
 /**
  * Copyright 2014 Andreas Schildbach
@@ -18,7 +18,7 @@ package com.khcoin.core.coins;
  */
 
 
-import static com.khcoin.core.coins.Value.*;
+import static com.kh69coin.core.coins.Value.*;
 
 import static org.junit.Assert.assertArrayEquals;
 import static org.junit.Assert.assertEquals;

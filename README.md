@@ -1,12 +1,12 @@
-Coinomi Wallet
+69coin Wallet
 ===============
 
-Website: https://coinomi.com
+Website: http://69coin.net
 
 Support: https://coinomi.freshdesk.com/support/home
 
-Announcements: https://twitter.com/CoinomiWallet
+Announcements: https://twitter.com/69coin
 
-Blog: https://medium.com/@coinomi/
+Blog: 
 
-Download Coinomi Wallet: https://play.google.com/store/apps/details?id=com.coinomi.wallet
+Download Coinomi Wallet: 

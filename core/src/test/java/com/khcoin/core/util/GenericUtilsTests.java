@@ -1,15 +1,15 @@
-package com.khcoin.core.util;
+package com.kh69coin.core.util;
 
-import com.khcoin.core.coins.BitcoinMain;
-import com.khcoin.core.coins.BlackcoinMain;
-import com.khcoin.core.coins.CoinType;
-import com.khcoin.core.coins.DigitalcoinMain;
-import com.khcoin.core.coins.FeathercoinMain;
-import com.khcoin.core.coins.LitecoinMain;
-import com.khcoin.core.coins.NuBitsMain;
-import com.khcoin.core.coins.PeercoinMain;
-import com.khcoin.core.exceptions.AddressMalformedException;
-import com.khcoin.core.wallet.AbstractAddress;
+import com.kh69coin.core.coins.BitcoinMain;
+import com.kh69coin.core.coins.BlackcoinMain;
+import com.kh69coin.core.coins.CoinType;
+import com.kh69coin.core.coins.DigitalcoinMain;
+import com.kh69coin.core.coins.FeathercoinMain;
+import com.kh69coin.core.coins.LitecoinMain;
+import com.kh69coin.core.coins.NuBitsMain;
+import com.kh69coin.core.coins.PeercoinMain;
+import com.kh69coin.core.exceptions.AddressMalformedException;
+import com.kh69coin.core.wallet.AbstractAddress;
 
 import org.bitcoinj.core.Coin;
 import org.junit.Test;

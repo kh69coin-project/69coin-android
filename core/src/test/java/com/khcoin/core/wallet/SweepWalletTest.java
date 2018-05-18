@@ -1,8 +1,8 @@
-package com.khcoin.core.wallet;
+package com.kh69coin.core.wallet;
 
-import com.khcoin.core.coins.BitcoinMain;
-import com.khcoin.core.coins.CoinType;
-import com.khcoin.core.coins.DogecoinMain;
+import com.kh69coin.core.coins.BitcoinMain;
+import com.kh69coin.core.coins.CoinType;
+import com.kh69coin.core.coins.DogecoinMain;
 
 import org.junit.Test;
 

@@ -1,10 +1,10 @@
-package com.khcoin.core.wallet.families.bitcoin;
+package com.kh69coin.core.wallet.families.bitcoin;
 
-import com.khcoin.core.coins.BitcoinMain;
-import com.khcoin.core.coins.CoinType;
-import com.khcoin.core.coins.LitecoinMain;
-import com.khcoin.core.exceptions.AddressMalformedException;
-import com.khcoin.core.wallet.AbstractAddress;
+import com.kh69coin.core.coins.BitcoinMain;
+import com.kh69coin.core.coins.CoinType;
+import com.kh69coin.core.coins.LitecoinMain;
+import com.kh69coin.core.exceptions.AddressMalformedException;
+import com.kh69coin.core.wallet.AbstractAddress;
 
 import org.bitcoinj.core.Address;
 import org.bitcoinj.core.AddressFormatException;

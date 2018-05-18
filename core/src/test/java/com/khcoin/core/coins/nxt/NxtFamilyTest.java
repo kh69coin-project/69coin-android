@@ -1,13 +1,13 @@
-package com.khcoin.core.coins.nxt;
+package com.kh69coin.core.coins.nxt;
 
 /**
  * @author John L. Jegutanis
  */
 
-import com.khcoin.core.coins.NxtMain;
-import com.khcoin.core.coins.nxt.Appendix.EncryptedMessage;
-import com.khcoin.core.wallet.families.nxt.NxtAddress;
-import com.khcoin.core.wallet.families.nxt.NxtFamilyKey;
+import com.kh69coin.core.coins.NxtMain;
+import com.kh69coin.core.coins.nxt.Appendix.EncryptedMessage;
+import com.kh69coin.core.wallet.families.nxt.NxtAddress;
+import com.kh69coin.core.wallet.families.nxt.NxtFamilyKey;
 
 import org.bitcoinj.crypto.DeterministicHierarchy;
 import org.bitcoinj.crypto.DeterministicKey;

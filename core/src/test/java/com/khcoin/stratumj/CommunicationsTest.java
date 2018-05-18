@@ -1,8 +1,8 @@
-package com.khcoin.stratumj;
+package com.kh69coin.stratumj;
 
 
-import com.khcoin.stratumj.messages.CallMessage;
-import com.khcoin.stratumj.messages.ResultMessage;
+import com.kh69coin.stratumj.messages.CallMessage;
+import com.kh69coin.stratumj.messages.ResultMessage;
 import org.bitcoinj.utils.BriefLogFormatter;
 
 import com.google.common.util.concurrent.FutureCallback;
