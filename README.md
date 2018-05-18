@@ -9,4 +9,4 @@ Announcements: https://twitter.com/69coin
 
 Blog: 
 
-Download Coinomi Wallet: 
+Download 69coin Wallet: 
